@@ -8,11 +8,11 @@
 
 # API
 
-**In the API Object paste your API Administrator key in "Administrator Key", paste your API Attack key in "Attack Key", you will also see a JSON Array "Servers", paste all your server IPs in this array
+**In the API Object paste your API Administrator key in "Administrator Key", paste your API Attack key in "Attack Key", you will also see a JSON Array "Servers", paste all your server IPs in this array**  
 
 # Discord Object
 
-**Paste your command prefix in "Bot Prefix" and your bot Authorization token in "Bot Token" 
+**Paste your command prefix in "Bot Prefix" and your bot Authorization token in "Bot Token"**  
 
 # Roles
 
